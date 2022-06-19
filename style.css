@@ -1,0 +1,25 @@
+P{
+    color:#00CC00;
+}
+a{
+    color:magenta;
+}
+a:hover{
+    color:blue;
+    font-size: 24px;
+}
+img{
+    border: 5px solid #3f7cee; border-radius: 25px;
+    width: 750px;
+}
+.img1{
+    border: 5px solid salmon; border-radius: 30px;
+    box-shadow: 10px 10px 5px lightseagreen;
+    width: 650px;
+}
+.img-circle{
+    border-radius: 870px;
+}
+้h1{
+    color: lavender;
+}
